@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# SQLite database files (created at runtime — do not commit)
+*.db
+*.db-shm
+*.db-wal
